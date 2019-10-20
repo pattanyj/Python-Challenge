@@ -1,0 +1,7 @@
+Election Results
+ 
+Total Votes :3521001
+<generator object DataFrame.iterrows at 0x0F49A9B0>
+ 
+Winner :
+"Index(['Khan'], dtype='object', name='Candidate')"
